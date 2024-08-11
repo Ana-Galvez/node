@@ -1,0 +1,4 @@
+*******************************
+Texto para practicar el sincronismo
+y asincronismo con node
+*******************************

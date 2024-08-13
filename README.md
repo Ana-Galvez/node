@@ -4,3 +4,4 @@
 - repositorio en línea que alberga los paquetes  npmjs.com
 - hay otros como yarn y pnpm
 - npm init -y  inicia sin asistente
+- npm install package o npm install package@version  o npm i package

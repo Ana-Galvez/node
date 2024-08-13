@@ -12,5 +12,6 @@
 - node_modules: se almacenan los archivos de los paquetes instalados
 - .gitignore: node_modules   porque no se debe subir a un repositorio
 - package.json: se guardan las dependencias de los paquetes instalados
+- package-lock.json: permite la instalación de dependencias entre diferentes sistemas operativos, guardando cada dependencia con su url de instalación
 
 - usando package.json poniendo "type":"module", no es necesario que los archivos donde se exporta e importan usando es modules tengan que ser mjs,  pueden usar js

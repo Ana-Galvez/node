@@ -3,3 +3,4 @@
 - es una herramienta cli  commands line interface
 - repositorio en línea que alberga los paquetes  npmjs.com
 - hay otros como yarn y pnpm
+- npm init -y  inicia sin asistente

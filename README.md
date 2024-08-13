@@ -1,0 +1,5 @@
+## NPM  node package manage
+- Gestor de paquetes incluido en Nodejs
+- es una herramienta cli  commands line interface
+- repositorio en línea que alberga los paquetes  npmjs.com
+- hay otros como yarn y pnpm

@@ -5,3 +5,5 @@
 - hay otros como yarn y pnpm
 - npm init -y  inicia sin asistente
 - npm install package o npm install package@version  o npm i package
+- npm uninstall package o npm un package
+- npm update package o npm update package@version
